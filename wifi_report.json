@@ -1,0 +1,22 @@
+{
+  "scan_time": "2026-09-25T17:53:57.405372",
+  "platform": "Windows",
+  "total_networks": 1,
+  "summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 1,
+    "minimal": 0
+  },
+  "networks": [
+    {
+      "ssid": "CITNC-Boys Hostel",
+      "bssid": "DC:B7:AC:FD:E6:42",
+      "channel": 0,
+      "signal": -59,
+      "security": "WPA2",
+      "risk": "LOW"
+    }
+  ]
+}
